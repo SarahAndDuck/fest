@@ -12,7 +12,7 @@
 }
 .hero {
   height: 100vh;
-  background: url("/img/back.jpg") center center/cover no-repeat;
+  background: url("./img/back.jpg") center center/cover no-repeat;
   padding-top: 80px;
 }
 .hero_item {
@@ -89,7 +89,7 @@ h2 {
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
-  background: url("/img/arrow_down.png") center center/contain no-repeat;
+  background: url("./img/arrow_down.png") center center/contain no-repeat;
   background-color: #fff;
   height: 40px;
   width: 40px;
