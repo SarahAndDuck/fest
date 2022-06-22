@@ -138,8 +138,8 @@ h2 {
 
 .about .about_item:last-child {
   -webkit-box-flex: 1;
-      -ms-flex: 1 1 100%;
-          flex: 1 1 100%;
+      -ms-flex: 1 1 80%;
+          flex: 1 1 80%;
 }
 
 .about h2 {
