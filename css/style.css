@@ -334,10 +334,10 @@ h2 {
 
 @media (max-width: 480px) {
   .members h2 {
-    font-size: 20px;
+    font-size: 25px;
   }
   .members h2::after {
-    font-size: 25px;
+    font-size: 27px;
   }
   .hero_item {
     max-width: 400px;
