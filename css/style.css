@@ -187,6 +187,7 @@ h2 {
 }
 
 .members h2::after {
+display:none;
   content: "Участники фестиваля";
   position: absolute;
   color: #f2f2f2;
