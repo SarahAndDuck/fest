@@ -334,10 +334,7 @@ h2 {
 
 @media (max-width: 480px) {
   
-  .hero_item {
-    max-width: 400px;
-    padding: 10px 20px;
-  }
+  
   .members_column {
     -webkit-box-flex: 0;
         -ms-flex: 0 1 100%;
